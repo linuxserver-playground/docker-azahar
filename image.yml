@@ -10,6 +10,14 @@ upstream:
     type: json
     url: https://aur.archlinux.org/rpc/v5/info?arg[]=azahar
     jq: .results[] | select(.Name == "azahar") | .Version
+  notes:
+    type: github_release
+    repo: azahar-emu/azahar
+    transform:
+    - regex: '^\d+:'
+      replace: ''
+    - regex: -\d+$
+      replace: ''
 
 release:
   branch: master
