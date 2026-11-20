@@ -433,9 +433,9 @@ elfutils                                                                        
 enet                                                                                1.3.18-1                                  alpm                             
 expat                                                                               2.10.0-1                                  alpm                             
 fakeroot                                                                            2:1.37.2-1                                alpm                             
-fastapi                                                                             0.162.7                                   python                           
+fastapi                                                                             0.163.1                                   python                           
 fcft                                                                                3.3.3-1                                   alpm                             
-ffmpeg                                                                              2:9.0.2-3                                 alpm                             
+ffmpeg                                                                              2:9.1-1                                   alpm                             
 ffmpeg4.4                                                                           4.4.8-5                                   alpm                             
 fftw                                                                                3.3.11-1                                  alpm                             
 file                                                                                5.48-1                                    alpm                             
@@ -569,7 +569,8 @@ github.com/moby/moby/v2/cmd/dockerd                                             
 github.com/moby/patternmatcher                                                      v0.6.1                                    go-module                        
 github.com/moby/spdystream                                                          v0.5.1                                    go-module                        
 github.com/moby/sys/atomicwriter                                                    v0.1.0                                    go-module                        
-github.com/moby/sys/capability                                                      v0.4.0                                    go-module       (+1 duplicate)   
+github.com/moby/sys/capability                                                      v0.4.0                                    go-module                        
+github.com/moby/sys/capability                                                      v0.5.0                                    go-module                        
 github.com/moby/sys/mountinfo                                                       v0.7.2                                    go-module       (+4 duplicates)  
 github.com/moby/sys/sequential                                                      v0.7.0                                    go-module                        
 github.com/moby/sys/signal                                                          v0.7.1                                    go-module       (+3 duplicates)  
@@ -621,8 +622,8 @@ github.com/x448/float16                                                         
 github.com/xhit/go-str2duration/v2                                                  v2.1.0                                    go-module                        
 glib-networking                                                                     1:2.90.1-1                                alpm                             
 glib2                                                                               2.90.1-1                                  alpm                             
-glibc                                                                               2.44+r50+g1848099f063e-1                  alpm                             
-glibc-locales                                                                       2.44+r50+g1848099f063e-1                  alpm                             
+glibc                                                                               2.44+r78+gfcfb867c58ab-1                  alpm                             
+glibc-locales                                                                       2.44+r78+gfcfb867c58ab-1                  alpm                             
 glslang                                                                             1:1.4.363.0-1                             alpm                             
 glycin                                                                              2.2.6-1                                   alpm                             
 gmp                                                                                 6.3.0-3                                   alpm                             
@@ -710,7 +711,7 @@ icu                                                                             
 idna                                                                                3.18                                      python                           
 idna                                                                                3.20                                      python                           
 ijs                                                                                 0.35-7                                    alpm                             
-imlib2                                                                              1.12.7-3                                  alpm                             
+imlib2                                                                              1.13.0-1                                  alpm                             
 inetutils                                                                           2.8-1                                     alpm                             
 intel-gmmlib                                                                        22.10.2-1                                 alpm                             
 intel-media-driver                                                                  26.3.5-1                                  alpm                             
@@ -749,7 +750,7 @@ krb5                                                                            
 l-smash                                                                             2.14.5-4                                  alpm                             
 labsanimationplugin                                                                 6.12.0                                    UnknownPackage                   
 labsmodelsplugin                                                                    6.12.0                                    UnknownPackage                   
-labwc                                                                               0.20.2-1                                  alpm                             
+labwc                                                                               0.20.3-2                                  alpm                             
 lame                                                                                4.0-1                                     alpm                             
 lcheck                                                                              6.12.0                                    UnknownPackage                   
 lcms2                                                                               2.20-1                                    alpm                             
@@ -860,8 +861,8 @@ libpathrs                                                                       
 libpcap                                                                             1.11.0-1                                  alpm                             
 libpciaccess                                                                        0.19-1                                    alpm                             
 libpgm                                                                              5.3.128-4                                 alpm                             
-libpipewire                                                                         1:1.6.11-1                                alpm                             
-libplacebo                                                                          7.360.1-7                                 alpm                             
+libpipewire                                                                         1:1.6.11-2                                alpm                             
+libplacebo                                                                          7.387.0-1                                 alpm                             
 libpng                                                                              1.6.59-1                                  alpm                             
 libppd                                                                              2.1.1-2                                   alpm                             
 libproxy                                                                            0.5.12-1                                  alpm                             
@@ -996,7 +997,7 @@ nginx                                                                           
 nginx-mod-fancyindex                                                                0.5.2-1                                   alpm                             
 nginx-mod-fancyindex-debug                                                          0.5.2-1                                   alpm                             
 ninja                                                                               1.13.2-3                                  alpm                             
-nlohmann-json                                                                       3.12.0-2                                  alpm                             
+nlohmann-json                                                                       3.12.0-3                                  alpm                             
 noto-fonts                                                                          1:2026.11.01-1                            alpm                             
 noto-fonts-cjk                                                                      20240730-1                                alpm                             
 noto-fonts-emoji                                                                    1:20260924-1                              alpm                             
@@ -1044,7 +1045,7 @@ pillow                                                                          
 pinentry                                                                            1.3.3-1                                   alpm                             
 pip                                                                                 26.2.2                                    python                           
 pip                                                                                 UNKNOWN                                   UnknownPackage                   
-pipewire                                                                            1:1.6.11-1                                alpm                             
+pipewire                                                                            1:1.6.11-2                                alpm                             
 pixelflux                                                                           2.2.1                                     python                           
 pixeltool                                                                           6.12.0                                    UnknownPackage                   
 pixman                                                                              0.46.4-1                                  alpm                             
@@ -1052,7 +1053,7 @@ pkgconf                                                                         
 platformdirs                                                                        4.10.0                                    python                           
 platformdirs                                                                        4.14.5                                    python                           
 polkit                                                                              128-1                                     alpm                             
-poppler                                                                             26.10.0-2                                 alpm                             
+poppler                                                                             26.11.0-1                                 alpm                             
 poppler-data                                                                        0.4.12-2                                  alpm                             
 popt                                                                                1.19-2                                    alpm                             
 portaudio                                                                           1:19.7.0-4                                alpm                             
@@ -1069,7 +1070,7 @@ pybind11                                                                        
 pycparser                                                                           3.12                                      python                           
 pydantic                                                                            2.14.3                                    python                           
 pydantic-core                                                                       2.50.4                                    python                           
-pyee                                                                                16.0.2                                    python                           
+pyee                                                                                16.1.0                                    python                           
 pygments                                                                            2.20.0                                    python                           
 pygobject                                                                           3.58.1                                    python                           
 pylibsrtp                                                                           1.0.0                                     python                           
@@ -1186,7 +1187,7 @@ rhash                                                                           
 rich                                                                                14.2.0                                    python                           
 rtkit                                                                               0.14-2                                    alpm                             
 rubberband                                                                          4.0.0-2                                   alpm                             
-runc                                                                                1.5.2-1                                   alpm                             
+runc                                                                                1.5.3-1                                   alpm                             
 sdl2-compat                                                                         2.32.74-1                                 alpm                             
 sdl3                                                                                3.4.20-1                                  alpm                             
 seatd                                                                               0.9.3-1                                   alpm                             
@@ -1201,7 +1202,7 @@ sharedimageplugin                                                               
 sigs.k8s.io/json                                                                    v0.0.0-20250730193827-2d320260d730        go-module       (+1 duplicate)   
 sigs.k8s.io/yaml                                                                    v1.6.0                                    go-module       (+1 duplicate)   
 snappy                                                                              1.3.1-1                                   alpm                             
-sndio                                                                               1.10.0-1                                  alpm                             
+sndio                                                                               1.11.0-1                                  alpm                             
 soundtouch                                                                          2.4.1-1                                   alpm                             
 source-highlight                                                                    3.1.9-19                                  alpm                             
 spdlog                                                                              1.17.0-2                                  alpm                             
@@ -1218,13 +1219,12 @@ st-debug                                                                        
 starlette                                                                           1.10.0                                    python                           
 startup-notification                                                                0.12-9                                    alpm                             
 stdlib                                                                              go1.26.1-X:nodwarf5                       go-module                        
-stdlib                                                                              go1.27.1-X:nodwarf5                       go-module                        
 stdlib                                                                              go1.27.2-X:nodwarf5                       go-module       (+3 duplicates)  
 stdlib                                                                              go1.27.3-X:nodwarf5                       go-module       (+2 duplicates)  
-stdlib                                                                              go1.27.4-X:nodwarf5                       go-module                        
+stdlib                                                                              go1.27.4-X:nodwarf5                       go-module       (+1 duplicate)   
 sudo                                                                                1.9.17.p2-7                               alpm                             
 svgtoqml                                                                            6.12.0                                    UnknownPackage                   
-svt-av1                                                                             4.2.0-1                                   alpm                             
+svt-av1                                                                             4.3.0-1                                   alpm                             
 syncqt                                                                              6.12.0                                    UnknownPackage                   
 systemd                                                                             262.2-1                                   alpm                             
 systemd-libs                                                                        239-82.el8_10.19                          rpm                              
