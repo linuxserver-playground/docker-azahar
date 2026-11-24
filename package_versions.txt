@@ -359,8 +359,8 @@ autocommand                                                                     
 autoconf                                                                            2.73-1                                    alpm                             
 automake                                                                            1.20-1                                    alpm                             
 avahi                                                                               1:0.9rc5-2                                alpm                             
-azahar                                                                              1:2127.0-1                                alpm                             
-azahar-debug                                                                        1:2127.0-1                                alpm                             
+azahar                                                                              1:2127.0-2                                alpm                             
+azahar-debug                                                                        1:2127.0-2                                alpm                             
 base-devel                                                                          1-2                                       alpm                             
 bash                                                                                5.3.20-1                                  alpm                             
 binutils                                                                            2.47-4                                    alpm                             
